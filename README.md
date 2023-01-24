@@ -1,1 +1,1 @@
-# codechef-1
+# coursera-1
